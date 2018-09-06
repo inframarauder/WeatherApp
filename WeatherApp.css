@@ -1,0 +1,29 @@
+.body,html{
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+    background-color: turquoise;
+
+}
+
+strong{
+	color : white;
+	font-size: 60px;
+	margin-left: 450px;
+}
+.input{
+	margin-left: 400px;
+}
+
+span{
+	margin-left: 400px;
+	color: red;
+	border: 20px;
+	padding: 20px;
+}
+
+.output{
+	margin-left: 350px;
+	background-color: white;
+	text-align: center;
+	max-width: 400px;
+}
